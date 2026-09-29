@@ -2,7 +2,7 @@
 
 Página desarrollada para **Gabriela**, fan de **Minatozaki Sana** y ONCE.
 
-**Link: [pendiente](https://oncefanpagesana.netlify.app/)**
+**Link: [OncePageSana](https://oncefanpagesana.netlify.app/)**
 
 Un nuevo diseño de Minatozaki Sana construido desde cero con **Next.js 16.3.5, React 19 y TypeScript**, App Router y una API de servidor. El proyecto también está disponible en el escritorio, en `SANA-MK2`.
 
